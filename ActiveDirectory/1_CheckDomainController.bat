@@ -1,0 +1,2 @@
+netdom query fsmo
+pause

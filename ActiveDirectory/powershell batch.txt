@@ -1,0 +1,4 @@
+Nome script:
+%windir%\System32\WindowsPowerShell\v1.0\powershell.exe
+Parametri script:
+-Noninteractive -ExecutionPolicy Bypass -Noprofile -file %~dp0changeDNS.ps1
