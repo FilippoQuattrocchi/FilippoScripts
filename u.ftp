@@ -1,0 +1,10 @@
+open IP_FTP
+USER
+PASSWORD
+cd PATH_FTP
+binary 
+lcd
+mput LOCAL_FILE_PATH.ext
+mput LOCAL_FILE_PATH.ext
+disconnect
+quit
